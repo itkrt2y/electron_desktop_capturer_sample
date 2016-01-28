@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "author": "tatsuya itakura",
   "dependencies": {
-    "react": "^0.14.6",
+    "react": "^0.14.7",
     "react-dom": "^0.14.6"
   },
   "devDependencies": {
