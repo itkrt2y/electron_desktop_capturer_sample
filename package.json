@@ -4,7 +4,7 @@
   "author": "tatsuya itakura",
   "dependencies": {
     "react": "^0.14.6",
-    "react-dom": "^0.14.6"
+    "react-dom": "^0.14.7"
   },
   "devDependencies": {
     "electron-prebuilt": "0.36.3"
